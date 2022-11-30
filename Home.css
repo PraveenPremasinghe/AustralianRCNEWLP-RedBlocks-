@@ -36,6 +36,16 @@
       padding: 50px 60px 50px 70px;
     
     }
+
+    .winbackpack{
+      color: #FF1500;
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;
+      padding: 25px 0px 20px 30px;
+      line-height: normal;
+      max-width: 300px;
+      }
 }
 
 /* 
@@ -118,6 +128,16 @@ padding: 20px 10px 40px 10px;
     padding: 50px 30px 50px 30px;
   
   }
+
+  .winbackpack{
+    color: #FF1500;
+      font-weight: bold;
+      font-size: 20px;
+      text-transform: uppercase;
+      padding: 15px 0px 15px 28px;
+    line-height: normal;
+    max-width: 300px;
+    }
   
 }
   
@@ -260,6 +280,7 @@ border: 1px solid #FF1500;
 .radio-label{
   color: white;
   font-weight: 500;
+  font-size: small;
 }
 .c-color{
   color: white;
@@ -386,23 +407,14 @@ border: 1px solid #FF1500;
 
 
 
-.winbackpack{
-color: #FF1500;
-  font-weight: bold;
-  font-size: 20px;
-  text-transform: uppercase;
-padding: 25px 0px 10px 50px;
-line-height: normal;
 
-  
-}
 
 .redbcross-bag{
 
-  width: 80%;
-  float: right;    
+  width: 114%;
+  float: right;
   z-index: -1;
-   margin-top: -50px;
+  margin-top: -40px;
 
 }
 
