@@ -111,7 +111,22 @@
       padding: 60px 10px 10px 60px;
       }
 
-   
+      .rightside-2{
+        font-family:  'Roboto';
+        background: #FFFFFF;
+      border: 1px solid #FF1500;
+      box-shadow: 0px 7px 12px rgba(0, 0, 0, 0.25);
+      }
+
+      .main-padding-aboutus{
+        padding-left: 12%;
+        padding-right: 12%;
+      }
+
+      .main-padding-cover{
+        padding-left: 12%;
+        padding-right: 12%;
+      }
 
 }
 
@@ -196,7 +211,7 @@ padding: 20px 10px 40px 10px;
   }
 
   .about-left{
-    padding: 50px 30px 50px 30px;
+    padding: 50px 30px 50px 40px;
   
   }
 
@@ -205,7 +220,7 @@ padding: 20px 10px 40px 10px;
       font-weight: bold;
       font-size: 20px;
       text-transform: uppercase;
-      padding: 15px 0px 35px 28px;
+      padding: 28px 0px 35px 28px;
     line-height: normal;
     max-width: 300px;
     }
@@ -265,7 +280,19 @@ padding: 20px 10px 40px 10px;
     margin-top: 50px;
     }
 
-
+    .right-side{
+      padding: 0px !important;
+    }
+ 
+    .main-padding-aboutus{
+      padding-left: 0%;
+      padding-right: 0%;
+    }
+   
+    .main-padding-cover{
+      padding-left: 0%;
+      padding-right: 0%;
+    }
 
 }
   
@@ -335,10 +362,7 @@ color: #000000;
   font-family:  'Roboto';
   background: #FFFFFF;
 border: 1px solid #FF1500;
-
 box-shadow: 0px 7px 12px rgba(0, 0, 0, 0.25);
-
-
 }
 .quiz{
   font-family:  'Roboto';
@@ -498,7 +522,7 @@ box-shadow: 0px 7px 12px rgba(0, 0, 0, 0.25);
 
 .take-button-2{
   color: #FFff;
-  font-weight: 800;
+  font-weight: 600;
   padding: 8px 10px 8px 10px;
   background-color: #FF1500;
   text-transform: uppercase;
@@ -651,6 +675,8 @@ box-shadow: 0px 7px 19px rgba(0, 0, 0, 0.25);
 border-radius: 5px 0px 0px 5px;
 margin-top: 80px;
 margin-bottom: 50px;
+
+
 
 }
 
@@ -917,6 +943,11 @@ button {
 
 /* /////////////////////////////////////////////////////////////////////////////////////////////////////// */
 
+
+.main-padding{
+  padding-left: 12%;
+  padding-right: 12%;
+}
 
 
 .hero-main {
